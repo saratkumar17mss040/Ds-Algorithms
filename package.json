@@ -1,0 +1,25 @@
+{
+  "name": "ds-algorithms",
+  "version": "1.0.0",
+  "description": "This repository will contain all the basic algorithms implementations and solutions to ds and algorithms problems.",
+  "main": "",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saratkumar17mss040/Ds-Algorithms.git"
+  },
+  "keywords": [
+    "data-structures",
+    "algorithms",
+    "javascript"
+  ],
+  "author": "sarath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saratkumar17mss040/Ds-Algorithms/issues"
+  },
+  "homepage": "https://github.com/saratkumar17mss040/Ds-Algorithms#readme"
+}
